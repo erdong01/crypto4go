@@ -1,5 +1,5 @@
-module github.com/smartwalle/crypto4go
+module github.com/erdong01/crypto4go
 
-go 1.12
+go 1.18
 
-require golang.org/x/crypto v0.0.0-20190506204251-e1dfcc566284
+require golang.org/x/crypto v0.23.0
